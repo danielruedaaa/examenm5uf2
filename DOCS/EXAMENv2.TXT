@@ -1,0 +1,4 @@
+git clone https://github.com/danielruedaaa/examenm5uf2.git dev2Miguel_Clon
+git add . 
+git commit -m "versio2"
+git push origin master
