@@ -8,6 +8,8 @@ git add .
 git commit -m "versio2"
 git push origin master
 
+
+git pull origin master
 git add .
 git commit -m "Versio3"
 git push origin master
