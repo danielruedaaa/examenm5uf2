@@ -14,4 +14,14 @@ git add .
 git commit -m "Versio3"
 git push origin master
 
+git branch p1
+git branch p2
+git checkout p1
+git checkout p2
+git add .
+git commit -m "ramas"
+git checkout master
+git merge p1 /p2
+git push origin master
+
 
