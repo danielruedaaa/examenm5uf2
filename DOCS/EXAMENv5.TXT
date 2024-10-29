@@ -1,0 +1,29 @@
+git init
+git remote add origin https://github.com/danielruedaaa/examenm5uf2.git
+git add .
+git push https://github.com/danielruedaaa/examenm5uf2.git master
+
+git clone https://github.com/danielruedaaa/examenm5uf2.git dev2Miguel_Clon
+git add .
+git commit -m "versio2"
+git push origin master
+
+
+git pull origin master
+git add .
+git commit -m "Versio3"
+git push origin master
+
+git branch p1
+git branch p2
+git checkout p1
+git checkout p2
+git add .
+git commit -m "ramas"
+git checkout master
+git merge p1 /p2
+git push origin master
+
+git add .
+git commit -m "canvis versio 5"
+git push origin master
